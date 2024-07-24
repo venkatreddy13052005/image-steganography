@@ -2,7 +2,7 @@ Image steganography is the practice of hiding secret information within an image
 
 Project Title: Image Steganography for Secure Data Transmission
 
-Objective: To develop a system that hides confidential data within digital images, ensuring that the data is concealed from unauthorized users while allowing retrieval by authorized parties.
+Objective: To develop a system that hides confidential data within digital images, ensuring that the data is concealed from unauthorized users while allowing retrieval by authorized parties. 
 
 Key Components:
 
